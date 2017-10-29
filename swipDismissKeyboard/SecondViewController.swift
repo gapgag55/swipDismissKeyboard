@@ -15,7 +15,7 @@ class SecondViewController: UIViewController {
         super.viewDidAppear(animated)
         textView.becomeFirstResponder()
     }
-    
+
     @IBAction func swipGesture(_ sender: Any) {
         textView.resignFirstResponder()
     }

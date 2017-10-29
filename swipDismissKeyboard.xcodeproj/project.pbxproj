@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EC87A53B1FA61CEA007C2008 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC87A53A1FA61CEA007C2008 /* AppDelegate.swift */; };
-		EC87A53D1FA61CEA007C2008 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC87A53C1FA61CEA007C2008 /* ViewController.swift */; };
+		EC87A53D1FA61CEA007C2008 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC87A53C1FA61CEA007C2008 /* FirstViewController.swift */; };
 		EC87A5401FA61CEA007C2008 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC87A53E1FA61CEA007C2008 /* Main.storyboard */; };
 		EC87A5421FA61CEA007C2008 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC87A5411FA61CEA007C2008 /* Assets.xcassets */; };
 		EC87A5451FA61CEA007C2008 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC87A5431FA61CEA007C2008 /* LaunchScreen.storyboard */; };
@@ -18,7 +18,7 @@
 /* Begin PBXFileReference section */
 		EC87A5371FA61CEA007C2008 /* swipDismissKeyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swipDismissKeyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC87A53A1FA61CEA007C2008 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		EC87A53C1FA61CEA007C2008 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EC87A53C1FA61CEA007C2008 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		EC87A53F1FA61CEA007C2008 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EC87A5411FA61CEA007C2008 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC87A5441FA61CEA007C2008 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				EC87A53A1FA61CEA007C2008 /* AppDelegate.swift */,
-				EC87A53C1FA61CEA007C2008 /* ViewController.swift */,
+				EC87A53C1FA61CEA007C2008 /* FirstViewController.swift */,
 				EC87A54C1FA61F56007C2008 /* SecondViewController.swift */,
 				EC87A53E1FA61CEA007C2008 /* Main.storyboard */,
 				EC87A5411FA61CEA007C2008 /* Assets.xcassets */,
@@ -140,7 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC87A54D1FA61F56007C2008 /* SecondViewController.swift in Sources */,
-				EC87A53D1FA61CEA007C2008 /* ViewController.swift in Sources */,
+				EC87A53D1FA61CEA007C2008 /* FirstViewController.swift in Sources */,
 				EC87A53B1FA61CEA007C2008 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
